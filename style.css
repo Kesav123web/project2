@@ -1,0 +1,517 @@
+body 
+{
+	cursor: pointer;
+}
+.continer1
+{
+  height: 66px;
+  width: 101%;
+  margin-top: -10px;
+  margin-left: -8px;
+  background-color: white;
+  box-shadow: 0 0 10px 0 black;
+  display: flex;
+  position: sticky;
+}
+.cont1 img
+{
+  height: 85px;
+  width: 142px;
+  margin-left: 15px;
+  margin-top: -8px;
+}
+.cont1 
+{
+  height: 75px;
+  width: 142px;
+  margin-left: 15px;
+}
+.cont2 h4
+{
+	display: flex;
+	margin-left: 20px;
+	font-size: 14px;
+	font-weight: 10px;
+	font-family: monospace;
+	color: gray;
+}
+.cont2
+{
+	display: flex;
+	margin-left: 58px;
+	margin-top: 8px;
+	color: gray;
+}
+.cont2 :hover
+{
+	color: black;
+}
+.cont3 i
+{
+	color: black;
+    font-size: 23px;
+    margin-top: 20px;
+    margin-left: 15px;
+}
+.cont3
+{
+	margin-left: 5%;
+}
+.cont3 img
+{
+	height: 22px;
+	width: 28px;
+	margin-left: 18px;
+}
+.continer2
+{
+	height:560px;
+	width: 100.45%;
+	margin-left: -8px;
+}
+.kk1 img
+{
+	width: 100.55%;
+}
+.continer3
+{
+	height: 600px;
+	width: 100.45%;
+	margin-left: -8px;
+	display: flex;
+}
+.kkk1 h1
+{
+	margin-top: 30px;
+	font-size: 50px;
+	margin-left: 40px;
+}
+.kkk1
+{
+	height: 600px;
+	width: 950px;
+	margin-left: 9%;
+	font-family: sans-serif;
+	flex-wrap: wrap;
+}
+.kkk1 img
+{
+    height: 120px;
+	flex-wrap: wrap;
+	margin-top: 60px;
+	margin-left: 15%;
+	border: 2px solid gray;
+	border-radius: 15px;
+	background-color: transparent;
+	box-shadow: 0px 1px 1px 1px grey;
+
+}
+
+.continer4
+{
+	height: 900px;
+	width: 100.45%;
+	margin-left: -8px;
+}
+h1
+{
+	font-size: 40px;
+	align-items: center;
+	margin-left: 38%;
+	font-family: sans-serif;
+}
+.kkkk1 img
+{
+	height: 550px;
+	width: 480px;
+	border-radius: 10px;
+	margin-left: 8%;
+}
+.kkkk1
+{
+	border-radius: 10px;
+}
+.kkkk2 img
+{
+	height: 270px;
+	width: 320px;
+	margin-left: 43%;
+	margin-top: -49%;
+	border-radius: 10px;
+}
+.kkkk2
+{
+	margin-top: -20.55%;
+	border-radius: 10px;
+}
+.kkkk3 img
+{
+	height: 270px;
+	width: 320px;
+	border-radius: 10px;
+	margin-left: 43%;
+	margin-top: 4px;
+}
+.kkkk3
+{
+	border-radius: 10px;
+}
+.kkkk4 img
+{
+	height: 550px;
+	width: 55opx;
+	margin-left: 66%;
+	margin-top: -59%;
+}
+.kkkk4
+{
+	margin-top: -1%;
+	border-radius: 10px;
+}
+.continer5
+{
+	height: 700px;
+	width: 100.45%;
+	margin-left: -8px;
+}
+.k51 h1
+{
+
+	font-family: sans-serif;
+}
+.k51 h5
+{
+	margin-top: -10px;
+	font-size: 20px;
+    text-align: center;
+    align-items: center;
+	font-family: sans-serif;
+	color: gray;
+}
+a
+{
+	text-align: center;
+	align-items: center;
+	margin-left: 10%;
+	font-size: 20px;
+	color: red;
+}
+.k52
+{
+	display: flex;
+	margin-left:70px ;
+}
+.k52 img
+{
+	height: 450px;
+	display: flex;
+	justify-content: space-evenly;
+}
+.continer6
+{
+	height: 350px;
+	width: 100.45%;
+	margin-left: -8px;
+	background-color: red;
+	color: white;
+}
+h1
+{
+	font-family: sans-serif;
+	margin-left: 35%;
+}
+h5
+{
+	font-size: 18px;
+	font-family: sans-serif;
+	text-align: center;
+	margin-top: -15px;
+}
+.k61 input
+{
+	height: 32px;
+	width: 250px;
+	flex-wrap: wrap;
+	margin-left: 8%;
+	margin-top: 20px;
+	background-color: transparent;
+	border: 2px solid white;
+	color: blue;
+	font-size: 18px;
+	align-items: center;
+	font-family: sans-serif;
+	border-radius: 10px;
+}
+.k62 button
+{
+	height: 45px;
+	width: 170px;
+	border-radius: 8px;
+	background-color: white;
+	color: red;
+	font-size: 20px;
+	border: 2px solid white;
+	font-family: sans-serif;
+  margin-left: 43%;
+  margin-top: 20px;
+}
+
+@media (max-width:1440px)
+{
+	.cont1 
+	{
+		margin-left: 30px;
+	}
+	.cont2
+	{
+		display: none;
+	}
+	.cont3
+	{
+		margin-left: -70%;
+	}
+	.cont3 i
+	{
+		margin-left: -20px;
+	}
+	.continer4
+	{
+		margin-left: -8%;
+	}
+	.continer5
+	{
+		margin-left: -70px;
+	}
+	.k51 a
+	{
+     margin-left: 77px;
+	}
+	.k52
+	{
+		margin-left: -10px;
+	}
+	.k52 img
+	{
+    margin-left: -49px;
+	}
+}
+@media (max-width:1389px)
+{
+	.k52 img
+	{
+		margin-left: -40px;
+	}
+	.continer4
+	{
+		display: none;
+		.cont2 
+		{
+			display: none;
+		}
+	}
+}
+@media (max-width:1312px)
+{
+	.continer1
+	{
+		width: 103%;
+	}
+	.continer2
+	{
+		width: 102%;
+	}
+	.continer6
+	{
+		width: 102%;
+	}
+}
+@media (max-width:1263px)
+{
+	.continer1
+	{
+		width: 109%;
+	}
+	.continer2
+	{
+		width: 108%;
+	}
+	.continer6
+	{
+		width: 108%;
+	}
+	.continer5
+	{
+		margin-left: -10%;
+	}
+	.k51 
+	{
+		margin-left: 80px;
+	}
+	.k52 
+	{
+    margin-left: -79px;
+	}
+}
+@media (max-width:1172px)
+{
+	.continer1
+	{
+		width: 112%;
+	}
+	.continer2
+	{
+		width: 112%;
+	}
+	.continer6
+	{
+		width: 112%;
+	}
+}
+@media (max-width:1113px)
+{
+	.continer1
+	{
+		width: 119%;
+	}
+	.continer2
+	{
+		width: 119%;
+	}
+	.continer6
+	{
+		width: 119%;
+	}
+	.continer5
+	{
+		text-align: center;
+	}
+	.k51 h5
+	{
+		margin-left:40%;
+	}
+	.k51
+	{
+		align-items: center;
+		text-align: center;
+	}
+	.k51 a
+	{
+		margin-left: 20px;
+	}
+	.k52 img
+	{
+		margin-left: -80px;
+	}
+}
+@media (max-width:855px)
+{
+	.continer1
+	{
+		width: 127%;
+	}
+	.continer2
+	{
+		width: 127%;
+	}
+	.continer5
+	{
+		display: none;
+	}
+	.continer6
+	{
+		width: 127%;
+	}
+}
+@media (max-width:774px)
+{
+ .continer3
+ {
+ 	margin-top: -25%;
+ 	flex-wrap: wrap;
+ }
+ .kkk1
+ {
+ 	flex-wrap: wrap;
+ 	margin-top: -60px;
+ }
+ .k61
+ {
+ 	margin-left: -10px;
+ }
+}
+@media (max-width:610px)
+{
+ .continer3
+ {
+ 	margin-top: -45%;
+ 	flex-wrap: wrap;
+ }
+ .kkk1
+ {
+ 	flex-wrap: wrap;
+ 	margin-top: -30%;
+ }
+ .k61
+ {
+ 	margin-left: -10px;
+ }
+}
+@media (max-width:726px)
+{
+ .continer2
+ {
+ 	height: 400px;
+ }
+ .kk1
+ {
+ 	height: 600px;
+ }
+  .continer3
+ {
+ 	margin-top: -55%;
+ 	flex-wrap: wrap;
+ }
+ .kkk1
+ {
+ 	flex-wrap: wrap;
+ 	margin-top: 10px;
+ }
+.continer6
+{
+	margin-top: 70%;
+	height: 600px;
+	color: red;
+	margin-bottom: 40px;
+}
+.continer6 h1
+{
+	color: white;
+	margin-left: -5px;
+}
+}
+@media (max-width:375px)
+{
+	.kk1 img
+	{
+		height: 250px;
+	}
+	.kkk1 img
+	{
+		margin-top: 5px;
+		margin-left: 10px;
+	}
+	.continer6 h1
+	{
+		font-size: 35px;
+		margin-left: 10px;
+	}
+	.k61 input
+	{
+		margin-left: 80px;
+	}
+	.k62 button
+	{
+       margin-left: 90px;
+	}
+}
+
